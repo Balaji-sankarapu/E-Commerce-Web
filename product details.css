@@ -124,6 +124,9 @@
     font-size: 25px; 
     font-weight: 100;
 }
+#Specif{
+    background-color: rgb(255,69,0);
+}
 .prod-cartbutt{
     border-radius: 3px; 
     border: none; 
