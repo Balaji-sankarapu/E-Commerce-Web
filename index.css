@@ -112,8 +112,9 @@ p{
     justify-content: space-between; 
     margin: 0 100px;
 }
-.prod1{
+.prod1,.prod5{
     width: 150px;
+    margin-top: -1.5%;
 }
 .prod2{
     width: fit-content;
@@ -123,6 +124,11 @@ p{
 .prod3{
     width: fit-content;
     margin-top: -5%;
+}
+.prod4{
+    width: fit-content;
+    height: 250px;
+    margin-top: -3%;
 }
 #Featu-prod-price{
     font-size: 20px; 
