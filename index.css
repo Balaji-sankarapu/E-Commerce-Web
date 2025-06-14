@@ -110,6 +110,11 @@ p{
 #prod{
     width: 150px;
 }
+.Featured-prod{
+    display: flex; 
+    justify-content: space-between; 
+    margin: 0 100px;
+}
 #Featu-prod-price{
     font-size: 20px; 
     font-weight: 600; 
