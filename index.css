@@ -115,6 +115,11 @@ p{
     justify-content: space-between; 
     margin: 0 100px;
 }
+.prod2{
+    width: fit-content;
+    height: 250px;
+    margin-top: -4%;
+}
 #Featu-prod-price{
     font-size: 20px; 
     font-weight: 600; 
