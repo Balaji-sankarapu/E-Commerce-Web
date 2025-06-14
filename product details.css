@@ -258,6 +258,9 @@ hr{
     display: grid; 
     grid-template-columns: repeat(2,1fr);
 }
+.icons{
+    margin: 10px;
+}
 footer{
     background-color: black;
     padding: 1%;
