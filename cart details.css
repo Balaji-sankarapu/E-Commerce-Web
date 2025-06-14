@@ -5,6 +5,9 @@
     display: grid; 
     grid-template-columns: repeat(2,1fr);
 }
+#exampleModalLabel{
+    text-align: start;
+}
 .tech-shop{
     text-decoration: none; 
     font-size: 40px; 
