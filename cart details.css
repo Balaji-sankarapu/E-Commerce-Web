@@ -119,6 +119,9 @@
     color: white; 
     text-align: center;
 }
+#trash-icon{
+    color: white;
+}
 /******************** overflow end *****************/
 .crt-items{
     background-color: rgb(35, 35, 35); 
