@@ -107,18 +107,22 @@ p{
 }
 /******************** carousel end *****************/
 /******************** featured prod start *****************/
-#prod{
-    width: 150px;
-}
 .Featured-prod{
     display: flex; 
     justify-content: space-between; 
     margin: 0 100px;
 }
+.prod1{
+    width: 150px;
+}
 .prod2{
     width: fit-content;
     height: 250px;
-    margin-top: -4%;
+    margin-top: -3%;
+}
+.prod3{
+    width: fit-content;
+    margin-top: -5%;
 }
 #Featu-prod-price{
     font-size: 20px; 
