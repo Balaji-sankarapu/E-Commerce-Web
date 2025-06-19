@@ -1,3 +1,61 @@
+@media (max-width: 992px) {
+    .main-navbar {
+        grid-template-columns: 1fr;
+        text-align: center;
+    }
+    .all-icons {
+        flex-direction: column;
+        gap: 20px;
+        margin-top: 20px;
+    }
+    .Featured-prod {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+        margin: 0 20px;
+    }
+    .products-head {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+    }
+    .card-row {
+        width: 90%;
+        margin: 10px auto;
+    }
+    .lst-card {
+        width: 90%;
+        margin: 10px auto;
+    }
+    .adv-container,
+    .foot-container,
+    .foot-bot {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+    .foot-container {
+        grid-template-columns: 1fr !important;
+    }
+    .tech-place {
+        width: 100%;
+    }
+    .icons {
+        width: 24px !important;
+    }
+    .foot-icns {
+        justify-content: center;
+    }
+    .carousel-item .card {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .carousel-item img {
+        width: 80% !important;
+    }
+}
 .md-3{
     background-color: rgb(42, 41, 41);;
 }
